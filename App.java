@@ -3,7 +3,7 @@
  * Date: 10/29/2025
  * Purpose: Assignment SDC330L project 3.2
  */
-public class Week3EmployeeApp {
+public class App {
     public static void main(String[] args) {
         EmployeeManager manager = new EmployeeManager();
         Scanner sc = new Scanner(System.in);
