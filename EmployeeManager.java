@@ -1,7 +1,7 @@
 /********************************************
  * Name: Michael Winstead
- * Date: 10/29/2025
- * Purpose: Assignment SDC330L project 3.2
+ * Date: 11/7/2025
+ * Purpose: Assignment SDC330L Project
  */
 class EmployeeManager {
     private ArrayList<Employee> employees = new ArrayList<>();
